@@ -1,0 +1,6 @@
+fastapi
+pymongo
+pydantic
+typing
+dnspython
+requests
